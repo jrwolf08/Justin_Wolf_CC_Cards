@@ -1,0 +1,16 @@
+{
+  "name": "justin_wolf_cc_cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/test.spec.js"
+  },
+  "author": "Justin Wolf",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "pactum": "^3.4.1"
+  }
+}
